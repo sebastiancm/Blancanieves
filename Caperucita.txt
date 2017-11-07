@@ -3,4 +3,8 @@ El cuento de Caperucita roja y el lobo feroz
 
 Luego de varios dias caperucita
 
+<<<<<<< HEAD
 se adiciona una branch
+=======
+Actualizando desde la pagina
+>>>>>>> 83ce93d75c89effa2ba124530a2ac2f659b1e436
